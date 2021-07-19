@@ -36,4 +36,4 @@
 - <a href="https://www.instagram.com/hanif_az.sq.61">Instagram</a>
 
 ## Deploy Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alvian03/Anon-Chat)
+-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alvian03/Anon-Chat)
