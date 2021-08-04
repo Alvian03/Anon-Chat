@@ -45,7 +45,7 @@ const mulai = async (sesi, conn = new WAConnection()) => {
           reconnect.stop()
           const isi = `[ ANCHT ] Started At ${moment().format('HH:mm:ss DD/MM/YYYY')}`
           if (ConnectingWs) {
-               conn.sendMessage(settings.Owner, isi, 'conversation', { quoted: { key: { remoteJid: "0@s.whatsapp.net", fromMe: false, }, message: { conversation: `*Created By MRHRTZ*`, }, } })
+               conn.sendMessage(settings.Owner, isi, 'conversation', { quoted: { key: { remoteJid: "0@s.whatsapp.net", fromMe: false, }, message: { conversation: `-[ Created ]-\nBy Vian ofc`, }, } })
           }
           IsShouldmessage = true
      })
